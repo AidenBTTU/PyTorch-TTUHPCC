@@ -39,7 +39,9 @@ Step 2. Installing our dataset:
 - Extract the Tar file and isolate the ZtoNN(or your choice) ROOT files
      - My preferred method for this is to run a custom JuptyerNotebook called DataFolderCreator.ipynb. If you use this method MAKE SURE TO CHANGE THE NAME OF THE DATASET to the appropriate one.
      - Go to Globus, and transfer the preferred subdirectory to the HPCC
-  
+
+Step 3. Running the model
+     - With the environment activated, run this command: 
 
   
 
