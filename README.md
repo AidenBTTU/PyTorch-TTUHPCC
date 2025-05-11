@@ -42,6 +42,9 @@ Step 2. Installing our dataset:
 
 Step 3. Running the model
      - With the environment activated, run this command: 
+     ![image](https://github.com/user-attachments/assets/87c22ae1-2e83-4203-ae64-637002ea233b)
+     - To monitor the program, run the command squeue -u yourUserName
+
 
   
 
