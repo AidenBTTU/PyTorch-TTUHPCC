@@ -31,10 +31,15 @@ Step 1. Creating our conda environment:
 
 Step 2. Installing our dataset:
 
-- Download a segment of the dataset from Zenodo.
+- Download a segment of the dataset from Zenodo ON YOUR PERSONAL COMPUTER
      - Go to this link: https://zenodo.org/records/6619768
      - Click download on one of the parts of the dataset
             -![image](https://github.com/user-attachments/assets/8a466e93-fdbe-4e0c-8ebe-a85f9c47e6b9)
+
+- Extract the Tar file and isolate the ZtoNN(or your choice) ROOT files
+     -My preferred method for this is to run a custom JuptyerNotebook called DataFolderCreator.ipynb. If you use this method MAKE SURE TO CHANGE THE NAME OF THE DATASET to the appropriate one.
+     -Go to Globus, and transfer the preferred subdirectory to the HPCC
+  
 
   
 
