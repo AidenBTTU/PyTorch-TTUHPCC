@@ -29,6 +29,15 @@ Step 1. Creating our conda environment:
 
 ![image](https://github.com/user-attachments/assets/85513a07-c4c0-4e25-962b-4d5ec8db81d4)
 
+Step 2. Installing our dataset:
+
+- Download a segment of the dataset from Zenodo.
+     - Go to this link: https://zenodo.org/records/6619768
+     - Click download on one of the parts of the dataset
+            -![image](https://github.com/user-attachments/assets/8a466e93-fdbe-4e0c-8ebe-a85f9c47e6b9)
+
+  
+
 
 
 
