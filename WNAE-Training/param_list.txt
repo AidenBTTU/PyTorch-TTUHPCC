@@ -1,0 +1,7 @@
+WtoQQFinal.npy TTBarFinal.npy result_21 weight_21
+WtoQQFinal.npy HtoWWto4QFinal.npy result_22 weight_22
+HtoWWto4QFinal.npy TTBarFinal.npy result_23 weight_23
+HtoWWto4QFinal.npy WtoQQFinal.npy result_24 weight_24
+TTBarFinal.npy WtoQQFinal.npy result_25 weight_25
+TTBarFinal.npy HtoWWto4QFinal.npy result_26 weight_26
+
